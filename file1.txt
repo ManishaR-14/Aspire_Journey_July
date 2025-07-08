@@ -1,6 +1,10 @@
 this is the first file
 welcome to to git
 Hi Hello
-:wq!
+
+===
+Git merge conflict resolution
+hello
+
 
 
